@@ -52,7 +52,7 @@ generativa aplicada al ciclo de vida del software.
   factores asociados a la deserción para orientar las mejoras del programa.
 
 ### Analista e Ingeniero de Soporte Tecnológico
-**2024** · SL Servicios Latam S.A.S., Bogotá
+**Ene. 2024 – May. 2024** · SL Servicios Latam S.A.S., Bogotá
 
 - Soporte técnico especializado en instalación, parametrización y optimización de
   infraestructuras para aplicaciones web progresivas de gestión HSEQ en el sector Oil & Gas.

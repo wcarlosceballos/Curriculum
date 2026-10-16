@@ -47,7 +47,7 @@ y SQL, y diseño curricular por competencias.
 
 - **Consultor Independiente** — Transformación Digital y Desarrollo Web · Ene. 2026 – Actual
 - **Consultor de Formación Profesional Integral**, OIT Países Andinos · Jun. 2024 – Nov. 2025
-- **Analista e Ingeniero de Soporte Tecnológico**, SL Servicios Latam S.A.S. · 2024
+- **Analista e Ingeniero de Soporte Tecnológico**, SL Servicios Latam S.A.S. · Ene. 2024 – May. 2024
 - **Docente del Área de Sistemas**, Instituto A&M – ICAM · Ene. 2012 – Actual
 
 ## Educación
