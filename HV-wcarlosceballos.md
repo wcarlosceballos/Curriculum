@@ -122,7 +122,7 @@ administración de entornos virtuales de aprendizaje (LMS) · estrategias de res
 | [Sistema de gestión TDC](https://github.com/wcarlosceballos/tdc-gestion) | Sistema de clientes, propuestas económicas, órdenes de servicio y cuentas de cobro. Análisis, modelo de datos y 12 casos de aceptación documentados. |
 | [Curso de Desarrollo con IA](https://github.com/wcarlosceballos/curso-desarrollo-ia) | Curso de 3 días: *prompting*, Spec-Driven Development y sistemas multiagente. Incluye OVA, rúbrica de evaluación por competencias y banco de preguntas. · [Demo](https://wcarlosceballos.github.io/curso-desarrollo-ia/) |
 | [Curso de Git desde Cero](https://github.com/wcarlosceballos/curso-git) | OVA pedagógica con diagnóstico de entrada, 3 módulos con retos y progreso persistente. · [Demo](https://wcarlosceballos.github.io/curso-git/) |
-| [Sistema de servicios técnicos](https://github.com/wcarlosceballos/tecnilavadoras-tlv) | Especificación y plan de un sistema de gestión para taller de mantenimiento, con reglas de negocio auditadas. |
+| Sistema de servicios técnicos | Especificación y plan de un sistema de gestión para taller de mantenimiento, con reglas de negocio auditadas. |
 | [app-webinser](https://github.com/wcarlosceballos/app-webinser) | Sistema de gestión de notas para institución educativa — PHP, MySQL, roles docente/estudiante/administrador. |
 
 ---
