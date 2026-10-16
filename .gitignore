@@ -1,0 +1,8 @@
+# La carpeta cv-build NO se publica en GitHub.
+# Contiene el numero de telefono y los PDF que se envian como adjunto.
+cv-build/
+
+# Archivos generados sueltos
+*.log
+.DS_Store
+Thumbs.db
